@@ -1,0 +1,11 @@
+# VSCode
+.vscode
+
+# CMSIS
+cmsis_core
+cmsis_h7
+
+# Build
+*.bin
+*.elf
+*.elf.*
